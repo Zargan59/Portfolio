@@ -1,0 +1,75 @@
+.cards{
+    background-color: white;
+    width: 50%;
+    height: 400px;
+    
+    padding: 20px;
+    margin-bottom: 50px;
+    margin-right: auto;
+    margin-left: auto;
+
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+
+    border-radius: 25px;
+}
+.cards a{
+    width: 80%;
+}
+
+.pictures{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgb(110, 110, 110) ;
+}
+
+.text{
+    width: 33%;
+}
+
+.projet_title{
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+.booki{
+    color:  #0065FC;
+}
+.ohmyfood{
+    color: #9356DC;
+}
+.Kasa{
+    color: #ff6060;
+}
+.projet_pic{
+    width: 100%;
+    height: auto;
+}
+.projet_description{
+    width: fit-content;
+    color: rgb(108, 108, 108);
+
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.tags{
+    display: flex;
+    flex-direction: row;
+    gap: 10%;
+
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+}
+.tag{
+    background-color: white;
+    box-shadow: 0 0 10px rgb(110, 110, 110) ;
+    padding: 5px 15px;
+
+    font-weight: bold;
+    color: #fb6501;
+}

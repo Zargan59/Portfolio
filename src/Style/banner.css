@@ -1,0 +1,25 @@
+.banner{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 2%;
+
+    margin-right: 100px;
+    margin-bottom: 50px;
+    height: 150px;
+}
+.banner_background{
+    background-color: #23232a;
+    width: 100%;
+    box-shadow: 0 6px 10px #0e0e12;
+}
+
+.banner a{
+    text-decoration: none;
+    color: inherit;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-shadow: gray;
+}

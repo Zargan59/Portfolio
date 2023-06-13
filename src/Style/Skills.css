@@ -1,0 +1,57 @@
+
+.global_skills{
+    margin:  50px 80px  ;
+}
+/* .title{
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    color: #fb6501;
+    font-size: 24px;
+    border: 2px solid #fb6501;
+    margin-bottom: 50px;
+}
+h2{
+    margin: 10px;
+} */
+.Skills{
+    display: flex;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3,li {
+    color: white;
+}
+strong{
+    text-transform: uppercase;
+
+}
+h3{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.skill_list{
+    list-style: square;
+}
+li{
+    font-size: 14px;
+}
+p{
+    font-style: italic;
+    font-size: 12px;
+    margin-top: 5px;
+    font-weight: 100;
+}
+.dev{
+    margin-bottom: 20px;
+    margin-left: 0px;
+}
+.Pole_skills{
+    margin-right: 80px;
+}

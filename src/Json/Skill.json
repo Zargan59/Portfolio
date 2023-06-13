@@ -1,0 +1,22 @@
+[
+    {
+        "skill_name" : "Conception multi-plateforme",
+        "skill_desc" : "Compatible sur tous les supports (mobile, tablette et pc)"
+    },
+    {
+        "skill_name" : "Gestion de projets web",
+        "skill_desc" : "Création de site vitrine, application mobile, e-commerce..."
+    },
+    {
+        "skill_name" : "Intégration HTML/CSS",
+        "skill_desc" : ""
+    },
+    {
+        "skill_name" : "Conception graphique et webdesign",
+        "skill_desc" : "Création de logos, plaquette publicitaire, cartes de visites..."
+    },
+    {
+        "skill_name" : "Validation W3C et SEO",
+        "skill_desc" : "Accessibilité et ergonomie des pages web"
+    }
+]

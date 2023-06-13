@@ -1,0 +1,20 @@
+.about{
+    color: White;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+}
+.about a {
+    color: inherit;
+}
+.section_about{
+    width: fit-content;
+    margin-right: auto;
+    margin-left:auto;
+}
+.Apropos{
+    padding-bottom: 50px;
+    border: 2px solid white;
+    margin: 0 300px;
+}

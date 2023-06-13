@@ -1,0 +1,20 @@
+.Footer{
+height:200px;
+background-color: #23232a;
+margin-bottom: 0;
+
+}
+
+.contact{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 22px;
+    color: white;
+}
+
+.contact a {
+    color: inherit;
+    font-size: 22px;
+    font-weight: bold;
+}
+

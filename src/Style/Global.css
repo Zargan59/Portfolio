@@ -1,0 +1,18 @@
+body{
+background-color: #363844;
+margin: 0;
+}
+
+h2{
+    margin: 10px;
+}
+
+.title{
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    color: #fb6501;
+    font-size: 24px;
+    border: 2px solid #fb6501;
+    margin-bottom: 50px;
+}
