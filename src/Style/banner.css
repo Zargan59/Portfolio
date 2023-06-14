@@ -23,3 +23,14 @@
     color: white;
     text-shadow: gray;
 }
+
+@media(max-width:900px){
+    .banner {
+        width: 100%;
+    }
+    .banner a {
+        margin-right: auto;
+        margin-left: auto;
+        font-size: 14px;
+    }
+}

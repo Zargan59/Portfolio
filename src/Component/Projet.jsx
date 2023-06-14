@@ -1,12 +1,11 @@
 import React from "react";
 import '../Style/Global.css'
 import '../Style/projet.css'
-import { NavLink } from "react-router-dom";
 
 function projet(){
     const Booki = require('../Image/Projet/Booki/Desktop - 1.png')
     const ohmyfood = require("../Image/Projet/Ohmyfood/Accueil.png")
-    const Kanap = require("../Image/Projet/Kanap.png")
+    // const Kanap = require("../Image/Projet/Kanap.png")
     const Kasa = require ("../Image/Projet/Kanap.png")
 
     return(
@@ -17,9 +16,10 @@ function projet(){
 
             <div className="content">
                 <div className="cards">
-                    <a href="">
+                    <a href="https://zargan59.github.io/Booki/">
+                        
                         <div className="pictures">
-                            <img src={Booki} alt="" className="projet_pic" />
+                            <img src={Booki} alt="" className="projet_pic" />   
                         </div>
                     </a>
                     <div className="text">

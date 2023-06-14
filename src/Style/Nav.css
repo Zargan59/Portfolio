@@ -51,3 +51,14 @@ h1{
     margin-right: auto;
     margin-bottom: 100px;
 }
+@media (max-width:900px) {
+    .developpeur{
+        font-size: 24px;
+    }
+    .name{
+        font-size: 28px;
+    }
+    .title{
+        text-align: center;
+    }
+}
