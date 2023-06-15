@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Zargan59.github.io/Portfolio",
+  "homepage": "https://zargan59.github.io/Portfolio/",
   "name": "portfolio_dev",
   "version": "0.1.0",
   "private": true,
@@ -18,7 +18,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy" : "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
