@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "03566303fdffa5e4e1c0",
+    "revision": "687f0b66d58dc8979436",
     "url": "/Portfolio/static/css/main.4c6292b8.chunk.css"
   },
   {
-    "revision": "03566303fdffa5e4e1c0",
-    "url": "/Portfolio/static/js/main.03566303.chunk.js"
+    "revision": "687f0b66d58dc8979436",
+    "url": "/Portfolio/static/js/main.687f0b66.chunk.js"
   },
   {
     "revision": "f495edba7c96d0975432",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/Kanap.96203058.png"
   },
   {
-    "revision": "c31ac795d358e8384632eaffc47ae9b7",
+    "revision": "14dca3c91bd4b6127bd0b987a8310c67",
     "url": "/Portfolio/index.html"
   }
 ];
