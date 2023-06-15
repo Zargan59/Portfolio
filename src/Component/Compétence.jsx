@@ -33,10 +33,9 @@ return(
                     </ul>
                 </div>
                 <div className="Outils">
-                    <h3>Compétence en conception graphique</h3>
+                    <h3>Compétences en conception graphique</h3>
                     <ul>
                         {Skill_graph.map((element)=>(
-                            
                             <li> {element.logiciel} </li>
                         ))}
                     </ul>

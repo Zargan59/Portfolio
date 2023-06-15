@@ -11,7 +11,7 @@ function projet(){
     return(
         <section id="project">
             <div className=" title">
-                <h2>Projets réalisé</h2>
+                <h2>Projets réalisés</h2>
             </div>
 
             <div className="content">
