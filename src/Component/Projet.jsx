@@ -7,6 +7,9 @@ function projet(){
     const ohmyfood = require("../Image/Projet/Ohmyfood/Accueil.png")
     // const Kanap = require("../Image/Projet/Kanap.png")
     const Kasa = require ("../Image/Projet/Kanap.png")
+    const Coffe = require ("../Image/Projet/Coffe.png")
+    const ledor = require ("../Image/Projet/Ledor.png")
+    const journal = require ("../Image/Projet/Journal.png")
 
     return(
         <section id="project">
@@ -14,6 +17,56 @@ function projet(){
                 <h2>Projets réalisés</h2>
             </div>
 
+            <div className="cards">
+                    <a href="https://zargan59.github.io/Cafe-Florette/">
+                        <div className="pictures">
+                            <img src={Coffe} alt="" className="projet_pic" />
+                        </div>
+                    </a>
+                    <div className="text">
+                        <h3 className="projet_title coffe">Café Florette</h3>
+                        <p className="projet_description"> Création d'un site vitrine pour un café en HTML et CSS</p>
+                        <div className="tags">
+                            <span className="tag">HTML</span>
+                            <span className="tag">CSS</span>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div className="cards">
+                    <a href="https://zargan59.github.io/Luxe/">
+                        <div className="pictures">
+                            <img src={ledor} alt="" className="projet_pic" />
+                        </div>
+                    </a>
+                    <div className="text">
+                        <h3 className="projet_title ledor">Agence ledor</h3>
+                        <p className="projet_description"> Création d'un site vitrine pour une agence de luxe en HTML et CSS </p>
+                        <div className="tags">
+                            <span className="tag">HTML</span>
+                            <span className="tag">CSS</span>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div className="cards">
+                    <a href="https://zargan59.github.io/Journal/">
+                        <div className="pictures">
+                            <img src={journal} alt="" className="projet_pic" />
+                        </div>
+                    </a>
+                    <div className="text">
+                        <h3 className="projet_title journal">Le journal du lundi</h3>
+                        <p className="projet_description"> Reproduction d'une page de journal en ligne en utilisant les display flix </p>
+                        <div className="tags">
+                            <span className="tag">HTML</span>
+                            <span className="tag">CSS</span>
+
+                        </div>
+                    </div>
+                </div>
             <div className="content">
                 <div className="cards">
                     <a href="https://zargan59.github.io/Booki/">
