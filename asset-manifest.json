@@ -1,7 +1,7 @@
 {
-  "main.css": "/Portfolio/static/css/main.1d75a0fa.chunk.css",
-  "main.js": "/Portfolio/static/js/main.b8073bbd.chunk.js",
-  "main.js.map": "/Portfolio/static/js/main.b8073bbd.chunk.js.map",
+  "main.css": "/Portfolio/static/css/main.75c07716.chunk.css",
+  "main.js": "/Portfolio/static/js/main.04b6bb73.chunk.js",
+  "main.js.map": "/Portfolio/static/js/main.04b6bb73.chunk.js.map",
   "static/js/1.f495edba.chunk.js": "/Portfolio/static/js/1.f495edba.chunk.js",
   "static/js/1.f495edba.chunk.js.map": "/Portfolio/static/js/1.f495edba.chunk.js.map",
   "runtime~main.js": "/Portfolio/static/js/runtime~main.3b961160.js",
@@ -11,8 +11,11 @@
   "static/media/Desktop - 1.png": "/Portfolio/static/media/Desktop - 1.f76b8b79.png",
   "static/media/Accueil.png": "/Portfolio/static/media/Accueil.adb5b0c5.png",
   "static/media/Kanap.png": "/Portfolio/static/media/Kanap.96203058.png",
-  "static/css/main.1d75a0fa.chunk.css.map": "/Portfolio/static/css/main.1d75a0fa.chunk.css.map",
+  "static/media/Coffe.png": "/Portfolio/static/media/Coffe.bbde179a.png",
+  "static/media/Ledor.png": "/Portfolio/static/media/Ledor.a7df2a2f.png",
+  "static/media/Journal.png": "/Portfolio/static/media/Journal.8a43f7e7.png",
+  "static/css/main.75c07716.chunk.css.map": "/Portfolio/static/css/main.75c07716.chunk.css.map",
   "index.html": "/Portfolio/index.html",
-  "precache-manifest.ac12daafdfbfaad44799dfd17b30da54.js": "/Portfolio/precache-manifest.ac12daafdfbfaad44799dfd17b30da54.js",
+  "precache-manifest.7945623e21b79860c30d9ea38f6415da.js": "/Portfolio/precache-manifest.7945623e21b79860c30d9ea38f6415da.js",
   "service-worker.js": "/Portfolio/service-worker.js"
 }

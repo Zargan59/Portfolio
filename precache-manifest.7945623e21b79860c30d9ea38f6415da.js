@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b8073bbd15fcd7d8b21d",
-    "url": "/Portfolio/static/css/main.1d75a0fa.chunk.css"
+    "revision": "04b6bb73129e0e9a975e",
+    "url": "/Portfolio/static/css/main.75c07716.chunk.css"
   },
   {
-    "revision": "b8073bbd15fcd7d8b21d",
-    "url": "/Portfolio/static/js/main.b8073bbd.chunk.js"
+    "revision": "04b6bb73129e0e9a975e",
+    "url": "/Portfolio/static/js/main.04b6bb73.chunk.js"
   },
   {
     "revision": "f495edba7c96d0975432",
@@ -36,7 +36,19 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/Kanap.96203058.png"
   },
   {
-    "revision": "78462b1e2fac7931ec8105867d8cf919",
+    "revision": "bbde179ae9cbd0b005e16e2662fc9b2e",
+    "url": "/Portfolio/static/media/Coffe.bbde179a.png"
+  },
+  {
+    "revision": "a7df2a2f19e79f4503f902855be3e6c2",
+    "url": "/Portfolio/static/media/Ledor.a7df2a2f.png"
+  },
+  {
+    "revision": "8a43f7e7ab3e69246978879a84c5a94a",
+    "url": "/Portfolio/static/media/Journal.8a43f7e7.png"
+  },
+  {
+    "revision": "30964c4a49c03c11656687ac8039953f",
     "url": "/Portfolio/index.html"
   }
 ];
